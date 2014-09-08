@@ -18,7 +18,7 @@ public class MainActivity extends ActionBarActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		Log.i("its working","i cool");
+		Log.i("its working","its  cool");
 
 		if (savedInstanceState == null) {
 			getSupportFragmentManager().beginTransaction()
