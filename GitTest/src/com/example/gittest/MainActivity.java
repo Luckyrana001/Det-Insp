@@ -19,6 +19,7 @@ public class MainActivity extends ActionBarActivity {
 		setContentView(R.layout.activity_main);
 		
 		Log.i("its working properly","its  cool");
+		Log.i("Hi this is gaurva","its  	GAURAV SHARMA BAKCHOOD");
 
 		if (savedInstanceState == null) {
 			getSupportFragmentManager().beginTransaction()
